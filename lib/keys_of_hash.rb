@@ -13,9 +13,4 @@ values_array=[]
   end 
 end
 
-  # arguments.each do |x|
-  #   if self.has_value?(x)
-  #     binding.pry
-  #     values_array << x
-  #   end 
-  # end
+  
